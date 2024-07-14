@@ -1,4 +1,4 @@
-#“MealLogger” Mobile App Analysis 
+# “MealLogger” Mobile App Analysis 
 
 - Analyzed the security of a mobile app using the OWASP security checklist.
 - Performed static and dynamic analysis on de-obfuscated code using JADX.
